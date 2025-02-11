@@ -1,0 +1,12 @@
+/installs
+/downloads
+/shims
+repository
+.vagrant
+keyrings
+/tmp
+
+dist/
+
+# ignore build binary
+asdf
